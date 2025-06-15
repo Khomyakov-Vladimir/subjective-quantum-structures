@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Subjective Quantum Structures: Observer Collapse and Decoherence Simulation"
+authors:
+  - family-names: Khomyakov
+    given-names: Vladimir
+date-released: 2025-06-15
+version: "1.0.0"
+doi: 10.5281/zenodo.15670260
+url: https://doi.org/10.5281/zenodo.15670260
+repository-code: https://github.com/Khomyakov-Vladimir/subjective-quantum-structures
+license: MIT
+keywords:
+  - quantum observer
+  - subjective physics
+  - observer collapse
+  - decoherence
+  - cognitive entropy
+  - simulation
+  - phase transition
+  - quantum measurement
+type: software

@@ -1,0 +1,34 @@
+{
+  "title": "Subjective Quantum Structures: A Categorical Model of Observer Collapse",
+  "creators": [
+    {
+      "name": "Khomyakov, Vladimir",
+      "affiliation": "Independent Researcher"
+      "orcid": "https://orcid.org/0009-0006-3074-9145"
+    }
+  ],
+  "description": "This repository contains the simulation code accompanying the second article on decoherence and observer collapse within the framework of subjective quantum physics. The simulation models entropy dynamics, phase transitions, and collapse behavior in cognitive observers, extending the formalism from the previous publication.",
+  "license": "MIT",
+  "keywords": [
+    "quantum observer",
+    "subjective physics",
+    "observer collapse",
+    "decoherence",
+    "cognitive entropy",
+    "simulation",
+    "phase transition",
+    "quantum measurement"
+  ],
+  "version": "1.0.0",
+  "publication_date": "2025-06-15",
+  "doi": "10.5281/zenodo.15670260",
+  "language": "eng",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "10.5281/zenodo.15571107",
+      "scheme": "doi"
+    }
+  ]
+}
